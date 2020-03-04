@@ -1,0 +1,14 @@
+# for more info visit https://cto.ai/docs/ops-reference
+version: "1"
+commands:
+  - name: repo:0.1.0
+    public: true 
+    description: An Op to manage repos on Github, Gitlab, or Bitbucket
+    run: python3 /ops/init_repo/main.py
+    sdk: "2"
+    sourceCodeURL: "https://github.com/cto-ai/repo"
+    mountCwd: false
+    mountHome: false
+    help:
+      usage: "ops run repo"
+
