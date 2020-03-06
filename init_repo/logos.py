@@ -24,7 +24,7 @@ intro = """👋  Hi there! Welcome to the CTO.ai Repo Op!
 This Op will allow you to create, delete, and archive remote repositories on GitHub, GitLab, and Bitbucket. \n
 ❓  How does it work? 
 You will be prompted for your version control platform of choice, the appropriate credentials, and the target repo. \n
-ℹ️i  Prerequisites
+ℹ️  Prerequisites
 This Op will require personal access tokens with the following permission scopes:
 🔑  GitHub: repo, delete_repo - https://github.com/settings/tokens/
 🔑  GitLab: api, read_user, read_repository, write_repository, read_registry - https://gitlab.com/profile/personal_access_tokens
