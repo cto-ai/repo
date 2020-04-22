@@ -1,4 +1,4 @@
-![](https://cto.ai/static/oss-banner.git)
+![](https://cto.ai/static/oss-banner.png)
 
 # Repo Op  🚀
 Repo is an Op designed to manage a user's repos on Bitbucket, Gitlab, or Github allowing users to archive, create, delete, and list their repos. This Op will require Gitlab and Github users to access their account through a personal access token while Bitbucket uses a username and password combination. This Op can also be used in Slack allowing users to easily perform these functions without having to navigate to the respective websites.
